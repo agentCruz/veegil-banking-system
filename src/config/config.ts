@@ -1,0 +1,1 @@
+export * from './orm/type_orm.config';

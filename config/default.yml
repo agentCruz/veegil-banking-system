@@ -1,0 +1,10 @@
+server:
+  port: 3000
+
+db:
+  synchronize: true
+  useUnifiedTopology: true
+  
+jwt:
+  expiresIn: 4600
+  strategy: "jwt"

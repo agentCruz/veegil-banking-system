@@ -1,0 +1,5 @@
+db:
+  url: 'mongodb+srv://terminator:12345@cluster0.zsec2bq.mongodb.net/banking-test'
+
+jwt:
+  secret: 'backing-test-live@123456789'
